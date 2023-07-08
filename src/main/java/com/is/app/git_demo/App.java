@@ -11,6 +11,10 @@ public class App
 		
 		System.out.println("data  = "+data);
 		
+		if(data.equals("illuminateskills")){
+			System.out.println("welcome");
+		}
+		
 	}
     public static void main( String[] args )
     {
